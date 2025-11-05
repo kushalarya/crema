@@ -41,11 +41,14 @@ export function SidebarNav() {
             <SidebarMenuItem key={item.href}>
               <Link href={item.href} passHref>
                 <SidebarMenuButton
+                  asChild
                   isActive={pathname === item.href}
                   tooltip={item.label}
                 >
-                  <item.icon className="h-4 w-4" />
-                  <span className="font-headline">{item.label}</span>
+                  <div>
+                    <item.icon className="h-4 w-4" />
+                    <span className="font-headline">{item.label}</span>
+                  </div>
                 </SidebarMenuButton>
               </Link>
             </SidebarMenuItem>
