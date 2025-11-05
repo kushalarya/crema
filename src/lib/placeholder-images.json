@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "espresso",
+      "description": "A close-up shot of an espresso machine pulling a shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1524686788093-aa1f9c0f7c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlc3ByZXNzbyUyMG1hY2hpbmV8ZW58MHx8fHwxNzYyMzMyNzkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "espresso machine"
+    },
+    {
+      "id": "pour-over",
+      "description": "A person making coffee using a pour-over method.",
+      "imageUrl": "https://images.unsplash.com/photo-1625969847230-61600e2b8dd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3VyLW92ZXIlMjBjb2ZmZWV8ZW58MHx8fHwxNzYyMjg3NTg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pour-over coffee"
+    },
+    {
+      "id": "aeropress",
+      "description": "An AeroPress coffee maker on a wooden table.",
+      "imageUrl": "https://images.unsplash.com/photo-1666710048753-98012e7ce1d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWVyb3ByZXNzfGVufDB8fHx8MTc2MjMzMjc5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aeropress"
+    },
+    {
+      "id": "french-press",
+      "description": "A French press filled with coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1708127368781-cd5f069a90a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmVuY2glMjBwcmVzc3xlbnwwfHx8fDE3NjIyMzkyMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "french press"
+    },
+    {
+      "id": "moka-pot",
+      "description": "A vintage moka pot on a stove.",
+      "imageUrl": "https://images.unsplash.com/photo-1659425757191-35d28eff25c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2thJTIwcG90fGVufDB8fHx8MTc2MjMzMjc5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "moka pot"
+    },
+    {
+      "id": "cold-brew",
+      "description": "A glass of cold brew coffee with ice.",
+      "imageUrl": "https://images.unsplash.com/photo-1562878424-0da674456d33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2xkJTIwYnJld3xlbnwwfHx8fDE3NjIyMjkxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cold brew"
+    },
+    {
+      "id": "flavor-wheel",
+      "description": "A stylized coffee flavor wheel.",
+      "imageUrl": "https://images.unsplash.com/photo-1733860443209-7d5733b654d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29mZmVlJTIwZmxhdm9yfGVufDB8fHx8MTc2MjMzMjc5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee flavor"
+    },
+    {
+      "id": "latte-art",
+      "description": "A cup of coffee with beautiful latte art.",
+      "imageUrl": "https://images.unsplash.com/photo-1579265898841-79c7890d69cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsYXR0ZSUyMGFydHxlbnwwfHx8fDE3NjIyNjY1NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "latte art"
+    }
+  ]
 }
